@@ -5,7 +5,7 @@
 Sample motus app
 to start with microservice course
 
- ## usage 
+ ## Usage 
  
  use with standard node command
  
