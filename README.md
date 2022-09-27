@@ -1,4 +1,4 @@
-# sample_motus
+# Sample motus App
 
 ## Description 
 
